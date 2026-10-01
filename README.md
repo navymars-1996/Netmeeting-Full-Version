@@ -239,4 +239,4 @@ This repository serves as the official landing page for NetMeeting. The software
 **Get the most recent version of NetMeeting today!**
 
 ---
-**Last updated:** 2026-10-01 00:57:12 UTC
+**Last updated:** 2026-10-01 06:49:39 UTC
